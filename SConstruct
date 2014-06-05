@@ -1,4 +1,4 @@
 
 
-Program('prog', Glob('*.cpp'), LIBS=['gtest', 'gtest_main'], CCFLAGS='-std=c++0x')
+Program('prog', Glob('*.cpp'), LIBS=['gtest', 'gtest_main'], CCFLAGS='-std=c++11')
 
