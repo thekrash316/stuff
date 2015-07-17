@@ -1,6 +1,8 @@
 .sconsign.dblite
 *.o
-prog
 .cproject
 .project
 .settings
+gtest-*
+libgtest*
+stuff
