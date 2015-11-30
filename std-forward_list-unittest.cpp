@@ -5,7 +5,7 @@
 using namespace std;
 
 
-TEST(stdforward_list, exercise)
+TEST(std_forward_list, exercise)
 {
     {
         forward_list<int> l{1, 2, 3};

@@ -5,7 +5,7 @@
 using namespace std;
 
 
-TEST(stdlist, exercise)
+TEST(std_list, exercise)
 {
     {
         list<int> l{1, 2, 3};
@@ -41,7 +41,7 @@ TEST(stdlist, exercise)
 }
 
 
-TEST(stdlist, exercise2)
+TEST(std_list, exercise2)
 {
     {
         list<int> l{4, 6, 2, 8, 7, 9};
